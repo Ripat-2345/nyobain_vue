@@ -10,6 +10,6 @@ export default{
 }
 </script>
 
-<!-- <style>
-@import url("~bulma/css/bulma.css");
-</style> -->
+<style>
+@import url('../node_modules/bulma/css/bulma.css');
+</style>
